@@ -1,0 +1,24 @@
+{
+  "name": "my-web-portfolio",
+  "homepage": "https://github.io/2046023/my-web-portfolio#readme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2046023/my-web-portfolio.git"
+  },
+  "author": "Kenneth Guingona",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/2046023/my-web-portfolio/issues"
+  }
+}
